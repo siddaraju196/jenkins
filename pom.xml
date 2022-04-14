@@ -3,7 +3,7 @@
   <groupId>com.jenkins</groupId>
   <artifactId>JENKINS</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-</project>
+
 
 	<dependencies>
 
@@ -47,3 +47,4 @@
 		</dependency>
 
 	</dependencies>
+</project>
